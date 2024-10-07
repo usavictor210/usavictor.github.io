@@ -1,2 +1,2 @@
 # website
-My website.
+My website. There's not much in it yet. Thankfully that might be changing soon...
